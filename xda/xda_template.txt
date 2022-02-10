@@ -1,0 +1,77 @@
+[CENTER]
+
+[IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/EvolutionX.png[/IMG]
+
+[SIZE=5][B][COLOR=#0060FF]Evolution X 6.0 for the Poco X3 Pro [vayu][/COLOR][/B][/SIZE]
+
+[/CENTER]
+[CODE]
+* Your warranty is now void.
+*
+* I am not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at me for messing up your device, I will laugh at you.
+*
+[/CODE]
+[CENTER]
+
+[IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/about.png[/IMG]
+
+[SIZE=5][COLOR=#0060FF][B]Living, Breaking, and Keep Evolving. [/B][/COLOR][/SIZE]
+
+[SIZE=3]Pixel UI, customization and more, we are Evolution X!
+
+[B] - Team Evolution X - [/B]
+
+[URL='https://forum.xda-developers.com/m/joeyhuab.4936496/']@JoeyHuab[/URL] (Lead Developer/Founder)
+[URL='https://forum.xda-developers.com/m/realakito.9008281/']@RealAkito[/URL] (Project Manager/Co-Founder)
+[URL='https://forum.xda-developers.com/m/anierinb.7125966/']@AnierinB[/URL] (Project Specialist/Co-Founder)
+
+[I]Reach us on Twitter! [URL='https://twitter.com/EvolutionXROM']@EvolutionXROM[/URL][/I]
+
+Check out our [URL='https://evolution-x.org/']website[/URL]!
+
+[IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/features.png[/IMG]
+
+[SPOILER]Just flash and check "The Evolver". We have tons of features combined together from different ROMs.[/SPOILER]
+
+[IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/known_issues.png[/IMG]
+
+[SPOILER]You tell me[/SPOILER]
+
+[IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/installation.png[/IMG]
+
+[SIZE=5][B][COLOR=#0060FF]Flashing Guides:[/COLOR][/B][/SIZE]
+1. Reboot to Recovery
+2. Wipe Dalvik/ART Cache, Data, and Cache on Advanced Wipe
+3. Flash ROM
+4. Flash DFE (optional)
+5. Format Data, type "yes" and press enter
+6. Reboot to System and [COLOR=#0060FF]#KeepEvolving![/COLOR]
+
+[SIZE="3"][B]DO NOT FLASH GAPPS, ALREADY INCLUDED[/B][/SIZE]
+
+[B]Full instructions, you can follow [URL='https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/blob/main/guides/flashing_guides.md']this link[/URL][/B].
+
+[URL='https://sourceforge.net/projects/evolution-x/files/vayu/'][IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/download.png[/IMG][/URL]
+
+[URL='https://t.me/EvolutionX'][IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/community_support.png[/IMG][/URL]
+
+[URL='https://t.me/EvolutionXVayu'][IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/device_support.png[/IMG][/URL]
+
+[URL='https://paypal.me/destiny88end'][IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/donate.png[/IMG][/URL]
+
+[URL='https://github.com/Evolution-X'][IMG]https://github.com/Evolution-X-Vayu/Evolution-X-Stuff/raw/main/xda/source.png[/IMG][/URL]
+
+[/CENTER]
+
+[LIST]
+[*][CENTER][B]Android OS version:[/B] 12.0.0_r27[/CENTER]
+[*][CENTER][B]Security Patch Level:[/B] January 2022[/CENTER]
+[*][CENTER][B]ROM Developer:[/B] [URL='https://forum.xda-developers.com/m/joeyhuab.4936496/']JoeyHuab[/URL][/CENTER]
+[*][CENTER][B]Source Code:[/B] [URL="https://github.com/Evolution-X"]https://github.com/Evolution-X[/URL][/CENTER]
+[*][CENTER][B]Build Author:[/B] [URL="https://forum.xda-developers.com/m/elizabethangelalorenza.7923660/"]elizabethangelalorenza[/URL][/CENTER]
+[*][CENTER][B]Kernel Source Code:[/B] [URL="https://github.com/chaldeaprjkt/kernel_xiaomi_vayu"]https://github.com/chaldeaprjkt/kernel_xiaomi_vayu[/URL][/CENTER]
+[/LIST]
